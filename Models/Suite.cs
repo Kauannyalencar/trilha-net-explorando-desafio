@@ -1,3 +1,4 @@
+
 namespace DesafioProjetoHospedagem.Models
 {
     public class Suite
@@ -14,5 +15,8 @@ namespace DesafioProjetoHospedagem.Models
         public string TipoSuite { get; set; }
         public int Capacidade { get; set; }
         public decimal ValorDiaria { get; set; }
+
+       
+
     }
 }
